@@ -1,0 +1,22 @@
+L:\Desktop\Pilot\Pilot Application\bin\Debug\Pilot Application.exe.config
+L:\Desktop\Pilot\Pilot Application\bin\Debug\Pilot Application.exe
+L:\Desktop\Pilot\Pilot Application\bin\Debug\Pilot Application.pdb
+L:\Desktop\Pilot\Pilot Application\obj\Debug\Pilot Application.csprojResolveAssemblyReference.cache
+L:\Desktop\Pilot\Pilot Application\obj\Debug\Pilot_Application.Properties.Resources.resources
+L:\Desktop\Pilot\Pilot Application\obj\Debug\Pilot Application.csproj.GenerateResource.Cache
+L:\Desktop\Pilot\Pilot Application\obj\Debug\Pilot Application.exe
+L:\Desktop\Pilot\Pilot Application\obj\Debug\Pilot Application.pdb
+L:\Desktop\Pilot\Pilot Application\obj\Debug\Pilot_Application.Menu.resources
+L:\Desktop\Pilot\Pilot Application\obj\Debug\Pilot_Application.Parts.resources
+L:\Desktop\Pilot\Pilot Application\obj\Debug\Pilot_Application.CRM.resources
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\bin\Debug\Pilot Application.exe.config
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\obj\Debug\Pilot Application.exe
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\obj\Debug\Pilot Application.pdb
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\bin\Debug\Pilot Application.exe
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\bin\Debug\Pilot Application.pdb
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\obj\Debug\Pilot Application.csprojResolveAssemblyReference.cache
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\obj\Debug\Pilot_Application.CRM.resources
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\obj\Debug\Pilot_Application.Parts.resources
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\obj\Debug\Pilot_Application.Menu.resources
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\obj\Debug\Pilot_Application.Properties.Resources.resources
+\\wfs1\users$\dennis-ii\Desktop\Pilot\Pilot Application\obj\Debug\Pilot Application.csproj.GenerateResource.Cache
